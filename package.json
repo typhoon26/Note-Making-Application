@@ -1,6 +1,9 @@
 {
   "name": "keeper-app-part-1-starting",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "",
   "keywords": [],
   "main": "src/index.js",
